@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://chaosquartet.herokuapp.com/'
+const CONFIG_BACKEND_URL = 'https://cqosrs.herokuapp.com/'
